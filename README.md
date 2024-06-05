@@ -7,7 +7,7 @@
 - Aluna: Fernanda Viana Marcelino
 - Aluna: Letícia da Lapa Silva
 
-**Dupla de elaboração prática do projeto:**
+**Dupla de elaboração prática (Desenvolvedores) do projeto:**
 
 - Aluna: Letícia da Lapa Silva
 - Aluno: Filipe Custodio Gonçalves
@@ -17,9 +17,14 @@
 # Lista de Wikis
 
 ## Descrição do Projeto
-
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Descrição-Projeto"> Objetivo e Funcionalidade <a>
 ## Protótipo Imagens
-
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Protótipo-Imagens"> Protótipação e Apresentação de Widgets<a>
 ## Widgets e Aplicações
-
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Widget:-Elevated-Button"> ElevatedButton <a>
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Widget:-Container"> Container <a>
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Widget:-Column"> Column <a>
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Widget:-Image"> Image <a>
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Widget:-Text"> Text <a>
 ## Desenvolvimento no Flutter
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Desenvolvimento-no-Flutter"> Projeto, Telas Desenvolvidas e Códigos<a>
