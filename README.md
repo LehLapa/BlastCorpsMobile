@@ -1,6 +1,10 @@
 # Projeto Mobile - Blast Corps (1997)
 <img width="500" src="https://github.com/LehLapa/ProjetoMobile2/assets/128638269/780654b5-d412-494c-b529-93fb6c756c58">
 
+## Projeto Finalizado:
+
+https://github.com/LehLapa/ProjetoMobile/assets/128638269/a673810d-a207-442a-aa44-1870f1dd7c4d
+
 ## Integrantes
 **Dupla de elaboração do protótipo:**
 
