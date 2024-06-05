@@ -19,7 +19,7 @@
 ## Descrição do Projeto
 - <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Descrição-Projeto"> Objetivo e Funcionalidade <a>
 ## Protótipo Imagens
-- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Protótipo-Imagens"> Protótipação e Apresentação de Widgets<a>
+- <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Protótipo-Imagens"> Prototipação e Apresentação de Widgets<a>
 ## Widgets e Aplicações
 - <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Widget:-Elevated-Button"> ElevatedButton <a>
 - <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Widget:-Container"> Container <a>
