@@ -22,6 +22,9 @@ https://github.com/LehLapa/ProjetoMobile/assets/128638269/a673810d-a207-442a-aa4
 
 ## Descrição do Projeto
 - <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Descrição-Projeto"> Objetivo e Funcionalidade <a>
+
+## Diagrama de Classe 
+
 ## Protótipo Imagens
 - <a href="https://github.com/LehLapa/ProjetoMobile/wiki/Protótipo-Imagens"> Prototipação e Apresentação de Widgets<a>
 ## Widgets e Aplicações
