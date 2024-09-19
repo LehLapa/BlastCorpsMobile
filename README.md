@@ -15,6 +15,11 @@ https://github.com/LehLapa/ProjetoMobile/assets/128638269/a673810d-a207-442a-aa4
 
 - Aluna: Letícia da Lapa Silva
 - Aluno: Filipe Custodio Gonçalves
+
+**Dupla Final, elaboração do Diagrama de Classe:**
+
+- Aluna: Fernanda Viana Marcelino
+- Aluna: Letícia da Lapa Silva
   
 **Cursando:** ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais. 3ºA/2024
 
